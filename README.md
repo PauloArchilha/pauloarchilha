@@ -1,6 +1,8 @@
-## Oi, eu sou o Paulo Archilha!👋
+## Oi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Eu sou o Paulo Archilha!🧑‍💻
 
 #### - 🔭 Hoje eu trabalho com redes e internet fibra óptica.
+
 #### - 📱 Redes Sociais e Contatos:
 
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pauloarchilha@gmail.com)
@@ -11,15 +13,20 @@
 
 #### - 🧠 Atualmente estudando:
 <div>
-<img align="center" alt="Paulo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="center" alt="Paulo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<img align="center" alt="Paulo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-<img align="center" alt="Paulo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="center" alt="Paulo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<a href="https://www.python.org/" taget="_blank"> 
+  <img align="center" alt="Paulo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> </a>
+<a href="https://www.djangoproject.com/" taget="_blank">
+  <img align="center" alt="Paulo-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /> </a>
+<a href="https://flask.palletsprojects.com/en/2.2.x/" taget="_blank">
+  <img align="center" alt="Paulo-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /> </a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" taget="_blank">
+  <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> </a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" taget="_blank">
+  <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> </a>
 </div>
 
-<div><br>
 <!-- Git Stats  -->
+<div><br>
 <a href="https://github.com/pauloarchilha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloarchilha&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloarchilha&layout=compact&langs_count=7&theme=codeSTACKr"/>

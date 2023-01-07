@@ -1,5 +1,7 @@
 ## Oi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 ## Eu sou o Paulo Archilha!🧑‍💻
+Sempre fui um entusiasta de tecnologia, computadores e games.</br>
+Sou do interior de SP, em 2022 comecei meus estudos sobre programação!
 
 #### - 🔭 Hoje eu trabalho com redes e internet fibra óptica.
 
@@ -18,7 +20,7 @@
 <a href="https://www.djangoproject.com/" taget="_blank">
   <img align="center" alt="Paulo-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /> </a>
 <a href="https://flask.palletsprojects.com/en/2.2.x/" taget="_blank">
-  <img align="center" alt="Paulo-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /> </a>
+  <img align="center" alt="Paulo-Flask" height="30" width="40" src="https://icongr.am/simple/flask.svg?size=148&color=ff00bb" /> </a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" taget="_blank">
   <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> </a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" taget="_blank">

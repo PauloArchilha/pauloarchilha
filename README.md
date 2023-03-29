@@ -25,7 +25,16 @@ Sempre fui um entusiasta de tecnologia, computadores e games.
   <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> </a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" taget="_blank">
   <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> </a>
+<a href="https://nodejs.org/en" taget="_blank"> 
+  <img align="center" alt="Paulo-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> </a>
+<a href="https://react.dev/" taget="_blank">
+  <img align="center" alt="Paulo-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> </a>    
 </div>
+
+          
+          
+            
+          
 
 <!-- Git Stats  -->
 <div><br>
